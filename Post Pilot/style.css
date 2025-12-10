@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn-sm{
+    border: 2px solid black;
+    border-radius: 10px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+}
+.btn-sm:hover{
+    border: 2px solid black;
+    border-radius: 10px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+}
+.btn-2{
+    background-color: #FF6D2C;
+    color: white;
+}
+.btn-2:hover{
+    background-color: #FF6D2C;
+    color: white;
+}
+.img{
+    background-color: #d9f3ef;
+    width: 1521px;
+    height: auto;
+}
+.h1 {
+  font-size: 3rem;
+  color: #222;
+}
+.text-primary{
+    color: #31ac97!important; 
+  font-family: "Covered By Your Grace", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.why-mail {
+  background-color: #e9f7f7; 
+}
+.postpilot-msg {
+  background-color: #FDF3EA; 
+}
+
+.orange-box { background-color: #FF6D2C;
+    padding: 59px 5px;
+    border-radius: 8px;
+  font-weight: bold;
+  color: #fff;
+}
+.gray  { background-color: #999; 
+ padding: 58px 12px;
+ border-radius: 8px;
+  font-weight: bold;
+  color: #fff;
+}
+.img3{
+    width: 1400px;
+    height: auto;
+}
+  .btn-lg{
+     border: 2px solid black;
+    border-radius: 10px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+}
+  .btn-lg:hover{
+     border: 2px solid black;
+    border-radius: 10px;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+}
+  .postpilot-1{
+    background-color: #EEECFF;
+  }
+  .postpilot-2{
+    background-color: #FF6D2C;
+  }
+  .Latest-trends{
+    background-color: #F3FAFA;
+  }
+
+.custom-card {
+  box-shadow: none !important;
+}
+.fixed-img {
+ border-radius: 10px;
+    height: 290px; 
+  object-fit: cover;
+}
+.text-bg {
+  background-color: #F3FAFA;
+}
+.footer-link {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+.footer-section h6 {
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.testimonial-card {
+  background-color: #FDF3EA;
+  border-radius: 12px;
+  border: 2px solid #ddd;
+  position: relative;
+}
+
+.quote-icon {
+  font-size: 40px;
+  color: #ff6600; 
+}
+
+.testimonial-text {
+  font-size: 16px;
+  color: #333;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.author {
+  font-size: 14px;
+  color: #666;
+}
