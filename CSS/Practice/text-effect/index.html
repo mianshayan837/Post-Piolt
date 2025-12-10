@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+div{
+width: 200px;
+border: 1px solid black;
+white-space: nowrap;
+overflow: hidden;
+ text-overflow: ellipsis; /* clip , */
+}
+div:hover{
+    overflow: visible;
+    width: 460px;
+}
+h2{
+    writing-mode: horizontal-tb;
+}
+span{
+    writing-mode: vertical-lr;
+}
+</style>
+<body>
+    <h1>Text-effect</h1>
+    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+    <h2>Lorem, ipsum dolor.</h2>
+    <p>Lorem ipsum dolor,<span> sit amet</span> consectetur.</p>
+</body>
+</html>

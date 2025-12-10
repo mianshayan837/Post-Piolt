@@ -1,0 +1,39 @@
+/* .container{
+    display: grid;
+    grid-template-columns: 2fr 1fr  ;
+}  */
+  /* p{
+    background-color: blue;
+    color: white;
+    display: inline;
+ }
+ div{
+    background-color: blue;
+    color: white;
+    display: block;
+ }
+ span{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    display: inline-block;
+ }
+ .flex{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+ }
+ .grid{
+    background-color: blue;
+    border: 1px solid white;
+    color: white;
+    display: grid;
+   
+ } */
+ div{
+    display: flex;
+ }
+ 
+ 
