@@ -1,0 +1,20 @@
+   .center{
+        width: 90%;
+        margin: auto;
+        border: 1px solid black;
+    }
+    button{
+        background-color: blue;
+        color: white;
+        border-radius: 10px;
+    }
+    button:hover{
+        
+        background-color: green;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
